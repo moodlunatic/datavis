@@ -9,4 +9,4 @@ as open data by the State of Iowa. The data points in 2020 were chosen to study 
 
 ---
 
-More details you can find is in the pdf.
+More details you can find are told in the pdf.
