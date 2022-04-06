@@ -10,3 +10,4 @@ as open data by the State of Iowa. The data points in 2020 were chosen to study 
 ---
 
 More details you can find are told in the pdf.
+https://github.com/moodlunatic/datavis/blob/main/Iowa%20Liquor%20Sales%20in%202020.pdf
